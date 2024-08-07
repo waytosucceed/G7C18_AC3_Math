@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Clara needs to ensure that certain angles align correctly. For this she needs to find out the given statement below is true or false. 'The angles that lie on the outer side of the parallel lines but on the opposite sides of the transversal are alternate interior angles.'",
+        "options": ["True", "False"],
+        "correct": 1,
+        "img": "./assests/images/1.jpg"
+    },
+    {
+        "question": "Clara needs to determine if ∠1 and ∠8, formed by the bridges intersecting a major avenue, lie on the same side of the transversal.",
+        "options": ["True", "False"],
+        "correct": 1,
+        "img": "./assests/images/2.jpg"
+    },
+    {
+        "question": "In Clara’s detailed blueprint, ∠2 forms a pair of co-interior angles with which of the following angles?",
+        "options": ["∠3", "∠1", "Both A and B", "Neither A nor B"],
+        "correct": 1,
+        "img": "./assests/images/3.jpg"
+    },
+    {
+        "question": "Clara is reviewing the angles between the support beams of her bridge. From her figure, which pair of angles is co-interior?",
+        "options": ["∠1 and ∠4", "∠2 and ∠6", "∠4 and ∠5", "None of the above"],
+        "correct": 2,
+        "img": "./assests/images/4.jpg"
+    },
+    {
+        "question": "Clara studies another figure of the bridge structure. From the given options below, identify the pair of interior angles on the same side of the transversal.",
+        "options": ["∠2 and ∠8", "∠1 and ∠6", "∠2 and ∠5", "∠3 and ∠8"],
+        "correct": 0,
+        "img": "./assests/images/5.jpg"
+    },
+    {
+        "question": "In Clara's blueprint, if EG and HJ are two parallel lines cut by the transversal DK, then ∠EFI forms a co-interior pair with which angle?",
+        "options": ["∠HIK", "∠JIK", "∠DFG", "∠HIF"],
+        "correct": 3,
+        "img": "./assests/images/6.jpg"
+    },
+    {
+        "question": "Still working on the blueprint, Clara notices if EG and HJ are two parallel lines cut by the transversal DK, then ∠JIF forms a co-interior pair with which angle?",
+        "options": ["∠DFG", "∠GFI", "∠HIF", "∠JIK"],
+        "correct": 1,
+        "img": "./assests/images/7.jpg"
+    },
+    {
+        "question": "Clara inspects the design carefully. Look at the given figure below: ∠4 = ∠6. Is this statement true or false?",
+        "options": ["True", "False"],
+        "correct": 0,
+        "img": "./assests/images/8.jpg"
+    },
+    {
+        "question": "Clara is evaluating her blueprints. Are ∠4 and ∠5 alternate interior angles with each other?",
+        "options": ["Yes", "No"],
+        "correct": 1,
+        "img": "./assests/images/9.jpg"
+    },
+    {
+        "question": "Knowing that alternate interior angles are equal, Clara concludes that in the figure given below, ∠NMP = ______?",
+        "options": ["∠RPQ", "∠OPR", "∠OPM", "∠NMK"],
+        "correct": 2,
+        "img": "./assests/images/10.jpg"
+    },
+    {
+        "question": "If in Clara’s bridge TV and WY are parallel lines cut by a transversal SZ. Find the alternate interior angle to ∠TUX.",
+        "options": ["∠UXY", "∠SUV", "∠TUS", "∠UXW"],
+        "correct": 0,
+        "img": "./assests/images/11.jpg"
+    },
+    {
+        "question": "Clara needs to identify the alternate interior angle to ∠LMP when parallel lines LN and OQ are cut by transversal RK. What is the angle?",
+        "options": ["∠RPQ", "∠QPM", "∠OPM", "∠LMK"],
+        "correct": 1,
+        "img": "./assests/images/12.jpg"
+    },
+    {
+        "question": "Clara’s new bridge design includes parallel lines NP and QS cut by transversal MT. Find the angle that is alternate interior to ∠POR.",
+        "options": ["∠QRT", "∠RST", "∠POM", "∠QRO"],
+        "correct": 3,
+        "img": "./assests/images/13.jpg"
+    },
+    {
+        "question": "In Clara’s latest design for the city’s new bridge, are ∠1 and ∠7 alternate exterior angles?",
+        "options": ["Yes", "No"],
+        "correct": 0,
+        "img": "./assests/images/14.jpg"
+    },
+    {
+        "question": "Are the marked angles shown below in Clara’s design diagram alternate exterior angles?",
+        "options": ["Yes", "No"],
+        "correct": 1,
+        "img": "./assests/images/15.jpg"
+    },
+    {
+        "question": "In the figure given below, Clara needs to identify the angle that is alternate exterior to ∠5.",
+        "options": ["∠1", "∠2", "∠3", "∠4"],
+        "correct": 0,
+        "img": "./assests/images/16.jpg"
+    },
+    {
+        "question": "Clara examines another part of the design. In the figure, ∠2 and ∠6 are alternate exterior angles. This statement is true or false?",
+        "options": ["True", "False"],
+        "correct": 1,
+        "img": "./assests/images/17.jpg"
+    },
+    {
+        "question": "In Clara’s design of parallel beams FH and IK intersected by transversal LE, find the alternate exterior angle to ∠FGE.",
+        "options": ["∠IGF", "∠KJG", "∠KJL", "None of the above"],
+        "correct": 2,
+        "img": "./assests/images/18.jpg"
+    },
+    {
+        "question": "In the figure, Clara sees that ∠4 and ∠8 are alternate exterior angles. This statement is true or false?",
+        "options": ["True", "False"],
+        "correct": 0,
+        "img": "./assests/images/19.jpg"
+    },
+    {
+        "question": "In Clara’s architectural plans, where parallel lines SU and VX are cut by transversal RY, identify the angle that is alternate exterior to ∠YWV.",
+        "options": ["∠STW", "∠VWT", "∠XWT", "∠UTR"],
+        "correct": 3,
+        "img": "./assests/images/20.jpg"
+    }
+]
